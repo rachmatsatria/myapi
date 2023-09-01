@@ -20,15 +20,5 @@
     {"id":18,"title":"Lassie","genre":"Adventure|Children"},
     {"id":19,"title":"Rasputin","genre":"Drama"},
     {"id":20,"title":"Airplane II: The Sequel","genre":"Comedy"},
-    {"id":21,"title":"Passion of Love (Passione d'amore)","genre":"Drama|Romance"},
-    {"id":22,"title":"Bad Day on the Block","genre":"Drama|Thriller"},
-    {"id":23,"title":"Sea Wife","genre":"Drama|Romance"},
-    {"id":24,"title":"True Heart","genre":"Adventure|Children|Drama"},
-    {"id":25,"title":"Fly, The","genre":"Drama|Horror|Sci-Fi|Thriller"},
-    {"id":26,"title":"Inauguration of the Pleasure Dome","genre":"Fantasy"},
-    {"id":27,"title":"Great Mouse Detective, The","genre":"Action|Animation|Children|Crime"},
-    {"id":28,"title":"Holy Man","genre":"Comedy"},
-    {"id":29,"title":"Away We Go","genre":"Comedy|Drama|Romance"},
-    {"id":30,"title":"Chicago 8, The","genre":"Drama"},
   ]
 }
